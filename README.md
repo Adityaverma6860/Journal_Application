@@ -1,4 +1,4 @@
-# Oasis Journal Application
+# Journal Application
 
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 
@@ -8,7 +8,6 @@ Online journal Application that allows both young and young at heart to write th
 
 This application is built using **MERN Stack** and **Draft js rich TextEditor** where user can pick a calendar date and write a journal entry using all the styles of text editor. Also user can search journal entries for particular month and view, edit or delete them.
 
-#### **[Deployed Application](https://oasis-diary.herokuapp.com/)**
 
 ## Table of Contents
 
@@ -17,8 +16,7 @@ This application is built using **MERN Stack** and **Draft js rich TextEditor** 
 * [Features](#features)
 * [Installation](#installation)
 * [Technology](#technology)
-* [Contributors](#contributors)
-* [Questions](#Questions)
+
 
 # Demo : 
 
@@ -50,18 +48,6 @@ This application is built using **MERN Stack** and **Draft js rich TextEditor** 
 
 5. User can also view, update, delete their Journal entries got from search results.
 
-# Installation
-
-1. Clone the [repo](https://github.com/GauriKhandke/oasis) to your local machine.
-
-2. On your local repo, run `npm install` to install dependencies.
-
-3. Create a file titled `.env` in the root folder of your local repo. Inside it, you will include your strong password.
-   <pre><code>JWT_SECRET = (random password)</code></pre>
-
-4. Run `npm start` to start the application. Your app should now be running on <http://localhost:3000>.
-
-
 # Technology:
 
 #### [React](https://reactjs.org/):
@@ -84,22 +70,3 @@ This application is built using **MERN Stack** and **Draft js rich TextEditor** 
 
 #### [BCRYPT](https://www.npmjs.com/package/bcrypt):
 * A library to help you hash passwords.
-
-# License
-
-This project is licensed under MIT License.
-
-# Contribution
-
-Please let us know how we can improve this project. Issues and pull requests are always welcome.
-
-# Contributors: 
-* [Gauri Khandke](https://github.com/GauriKhandke)
-* [Pratyusha Raghupatruni](https://github.com/PratyushaRaghupatruni)
-* [Daniel Balderas Hafertepen](https://github.com/danybb2020)
-* [Brandon Johnson](https://github.com/sheikb08)
-* [Robeil Aregawi](https://github.com/Robeil)
-
-# Questions :
-* If you have any questions about the repo, here is our repo to submit issue 
-  https://github.com/GauriKhandke/oasis/issues/new
